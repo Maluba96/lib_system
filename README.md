@@ -2,7 +2,7 @@
 ## Developers: 
 - Maluba Mulebi
 - Wila Mwila
-- Richard Nsama
+- Richard K. Nsama
 ## To Install Project
 Have XAMPP installed and configured properly
 Create a DB in PHPMyadmin called 'lib_system'
